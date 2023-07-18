@@ -1,2 +1,4 @@
-# ChatGPTArticleGenerator
-ChatGPT Article Generator
+# ChatGPT Article Generator
+
+Usage:
+streamlit run contentGenerator.py
