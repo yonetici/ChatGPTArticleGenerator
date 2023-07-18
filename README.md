@@ -1,0 +1,2 @@
+# ChatGPTArticleGenerator
+ChatGPT Article Generator
